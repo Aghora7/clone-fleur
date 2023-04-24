@@ -1,0 +1,1 @@
+git clone https://github.com/Aghora7/device_xiaomi_fleur device/xiaomi/fleur && git clone https://github.com/Aghora7/proprietary_vendor_xiaomi_ims-fleur vendor/xiaomi/fleur && git clone https://github.com/Aghora7/kernel_4.14-stable kernel/xiaomi/fleur && git clone https://github.com/xiaomi-mt6781-devs/android_hardware_mediatek hardware/mediatek
