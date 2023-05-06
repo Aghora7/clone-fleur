@@ -1,0 +1,1 @@
+rm -rf device/xiaomi/fleur && rm -rf vendor/xiaomi/fleur && git clone https://github.com/Aghora7/device_xiaomi_fleur_common.git device/xiaomi/fleur && git clone https://github.com/Aghora7/vendor_xiaomi_fleur_common.git vendor/xiaomi/fleur && git clone https://github.com/Aghora7/kernel_4.14-stable kernel/xiaomi/fleur
